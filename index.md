@@ -89,6 +89,7 @@ layout: page
     <li>Gala Camacho Ferrari</li>
     <li>Martin Kemka</li>
     <li>Noon van der Silk (chair)</li>
+    <li>Tilman Dingler</li>
   </ul>
 </div>
 
