@@ -34,6 +34,7 @@ title: Home
   <em>Location:</em>
   <ul>
     <li>Melbourne CBD, RMIT University, Building 80.
+    <br />
     <b>Rooms</b>: 80.03.06, 80.04.19 & 80.03.15.
     </li>
 
