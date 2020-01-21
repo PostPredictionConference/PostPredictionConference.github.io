@@ -49,7 +49,7 @@ title: Home
   <ul>
     <li><a
     href="https://events.humanitix.com.au/post-prediction-un-conference">
-    Buy Tickets Here - by Donation on Humanitix</a>
+    Get Tickets Here - by Donation on Humanitix</a>
     </li>
   </ul>
 
