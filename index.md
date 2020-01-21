@@ -119,6 +119,7 @@ title: Home
     <li>Martin Kemka</li>
     <li>Noon van der Silk (chair)</li>
     <li>Tilman Dingler</li>
+    <li>Sam Floreani</li>
   </ul>
 
   <h3>Volunteer!</h3>
