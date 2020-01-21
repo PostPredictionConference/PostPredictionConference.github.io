@@ -20,6 +20,8 @@ title: Home
   should design AI systems that integrate well with our human,
   environmental, social and cultural practices.
   </p>
+  <p>We will take notes during the event, and email them to all attendees
+  afterwards.</p>
 </div>
 
 <div class="card">
