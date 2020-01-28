@@ -125,7 +125,9 @@ title: Home
 
   <h3>Volunteer!</h3>
 
-  <p>If you want to help out on the day, by directing people around the rooms,
-  and generally helping out, then please email <a href="mailto:noon@braneshop.com.au">Noon</a>!
+  <p><strike>If you want to help out on the day, by directing people around the rooms,
+  and generally helping out, then please email <a href="mailto:noon@braneshop.com.au">Noon</a>!</strike>
   </p>
+
+  <p>Thanks to those who have reached out, we have lots of volunteers now!</p>
 </div>
