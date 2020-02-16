@@ -66,10 +66,9 @@ title: Home
   href="https://en.wikipedia.org/wiki/Unconference">unconference</a>.
   </p>
 
-  <p> Here is a more detailed [Unconference
-  Schedule](https://github.com/PostPredictionConference/PostPredictionConference.github.io/wiki).
-  The rough format is: 
-  </p>
+  <p> Here is a more detailed <a
+  href="https://github.com/PostPredictionConference/PostPredictionConference.github.io/wiki">Unconference
+  Schedule</a>.  The rough format is: </p>
 
   <pre>
     9:00am  - 9:30am  - Arrive, Mingle
