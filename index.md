@@ -66,7 +66,9 @@ title: Home
   href="https://en.wikipedia.org/wiki/Unconference">unconference</a>.
   </p>
 
-  <p> The format will be: 
+  <p> Here is a more detailed [Unconference
+  Schedule](https://github.com/PostPredictionConference/PostPredictionConference.github.io/wiki).
+  The rough format is: 
   </p>
 
   <pre>
