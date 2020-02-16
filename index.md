@@ -83,8 +83,8 @@ title: Home
     3pm     - 3:30pm  - Break
 
     3:30pm  - 4pm     - Everyone together; propose sessions.
-    4pm     - 6pm     - Sessions
-    6pm     - 6:30pm  - Everyone together; close.
+    4pm     - 5pm     - Sessions
+    5pm     - 5:30pm  - Everyone together; close.
   </pre>
 
   <p>The nature of the sessions is determined by those attending the
