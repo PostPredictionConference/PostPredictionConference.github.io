@@ -70,8 +70,9 @@ title: Home
   </p>
 
   <pre>
-    9:30am  - 10am    - Everyone together; propose sessions.
-    10am    - 12:30pm - Sessions
+    9:00am  - 9:30am  - Arrive, Mingle
+    9:30am  - 10:30am - Everyone together; propose sessions.
+    10:30am - 12:30pm - Sessions
 
     12:30pm - 1pm     - Lunch (BYO)
 
