@@ -138,6 +138,7 @@ title: Home
 
   <h3>Code of Conduct</h3>
 
-  <p>We follow the [Django Code of Conduct](https://www.djangoproject.com/conduct/).
+  <p>We follow the 
+  <a href="https://www.djangoproject.com/conduct/">Django Code of Conduct</a>.
   </p>
 </div>
