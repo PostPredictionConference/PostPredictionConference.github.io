@@ -103,7 +103,7 @@ title: Home
     <li>Sustainability,</li>
     <li>Data governance,</li>
     <li>Human-in-the-loop systems,</li>
-    <li>The UI the experience of AI.</li>
+    <li>The UI/experience of AI.</li>
   </ul>
 </div>
 
