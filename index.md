@@ -135,4 +135,9 @@ title: Home
   </p>
 
   <p>Thanks to those who have reached out, we have lots of volunteers now!</p>
+
+  <h3>Code of Conduct</h3>
+
+  <p>We follow the [Django Code of Conduct](https://www.djangoproject.com/conduct/).
+  </p>
 </div>
