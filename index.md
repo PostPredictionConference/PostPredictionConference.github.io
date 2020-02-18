@@ -4,6 +4,41 @@ title: Home
 ---
 
 <div class="card">
+  <h3>Post-Prediction Un-Conference 2020</h3>
+  <p>Post-Prediction Conference is over for this year! We'll be back next
+  year.
+  </p>
+
+  <p>We'd like to thank <a href="https://www.rmit.edu.au/">RMIT</a> and
+  <a href="https://braneshop.com.au/?post">Braneshop</a> for sponsoring the
+  conference, and all the organisers and volunteers for helping.
+  </p>
+
+
+  <div class="logos">
+    <p><a href="https://www.rmit.edu.au/"><img src="/assets/rmit.jpg" width="300" /></a></p>
+    <br />
+
+    <p><a href="https://braneshop.com.au/?post"><img src="/assets/braneshop.png"
+    width="300" /></a>
+    </p>
+  </div>
+
+  <p>To stay in contact with the attendees, join the <a
+  href="https://ml-ai.slack.com/">ML/AI Slack Group</a> and join the channel
+  "post-prediction-conference". You can get an invite to the channel <a
+  href="http://ml-ai-invite.herokuapp.com/">here</a>.
+  </p>
+
+  <p>Any further questions or comments can be emailed to <a
+  href="mailto:noon@braneshop.com.au">noon@braneshop.com.au</a>.
+  </p>
+
+  <p>Thanks to everyone who participated!</p>
+
+</div>
+
+<div class="card">
   <h3>About</h3>
   <p> <b>Post-Prediction Un-Conference</b> is community-organised unconference focused
   on the present and future impacts of AI.
@@ -22,9 +57,8 @@ title: Home
   </p>
   <p>We will take notes during the event, and email them to all attendees
   afterwards.</p>
-</div>
 
-<div class="card">
+
   <h3>Details</h3>
 
   <p> The unconference will be on the 18th-Feb-2020.  This event is <a
@@ -128,6 +162,15 @@ title: Home
     <li>Tilman Dingler</li>
   </ul>
 
+  <h3>Volunteers</h3>
+  <ul>
+    <li>Sam Floreani</li>
+    <li>Neelam Yadav</li>
+    <li>Ash Guy</li>
+  </ul>
+
+
+  <!--
   <h3>Volunteer!</h3>
 
   <p><strike>If you want to help out on the day, by directing people around the rooms,
@@ -135,6 +178,7 @@ title: Home
   </p>
 
   <p>Thanks to those who have reached out, we have lots of volunteers now!</p>
+  -->
 
   <h3>Code of Conduct</h3>
 
